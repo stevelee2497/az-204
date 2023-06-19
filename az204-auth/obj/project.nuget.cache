@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GblILVgvRPpJX2pk+z9MTeZvUBNiBfWKXfqSbFPvzZ3pIWzRwveafCnHdXsN1aL13rMEds/h7LtZvY1MQKzLRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\quoc.tran\\Projects\\az204-auth\\az204-auth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quoc.tran\\.nuget\\packages\\microsoft.identity.client\\4.54.1\\microsoft.identity.client.4.54.1.nupkg.sha512",
+    "C:\\Users\\quoc.tran\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512"
+  ],
+  "logs": []
+}

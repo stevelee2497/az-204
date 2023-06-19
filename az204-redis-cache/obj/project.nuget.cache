@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HOwUrW/iGJXjmdBLec3WSJSgNkHfU1+vGMUana2vntt2PoJFVn8KTyAaDZkKaGeEAd1DCcMesG4AA/7/O1EtdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\quoc.tran\\Projects\\redis-cache\\redis-cache.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quoc.tran\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\quoc.tran\\.nuget\\packages\\stackexchange.redis\\2.6.111\\stackexchange.redis.2.6.111.nupkg.sha512",
+    "C:\\Users\\quoc.tran\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
